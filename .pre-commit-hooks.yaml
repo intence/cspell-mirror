@@ -1,0 +1,7 @@
+---
+    - id: cspell
+      name: A Spell Checker for Code!
+      entry: cspell
+      language: node
+      types: [text]
+      additional_dependencies: [cspell]

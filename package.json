@@ -1,0 +1,22 @@
+{
+  "author": "d.zistl@intence.de",
+  "dependencies": {
+    "cspell": "latest"
+  },
+  "description": "A mirror for cspell",
+  "keywords": [
+    "cspell",
+    "pre-commit"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cspell-mirror",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intence/cspell-mirror"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
